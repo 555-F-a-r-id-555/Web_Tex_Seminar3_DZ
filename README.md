@@ -1,6 +1,6 @@
 # Web_Tex_Seminar3_DZ
 
-###Урок 3. Основы JavaScript
+### Урок 3. Основы JavaScript
 
     Формат сдачи ДЗ - один архив, со всеми файлами, либо pull request на github.
     
